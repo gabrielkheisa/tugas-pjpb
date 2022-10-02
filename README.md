@@ -19,7 +19,7 @@
 </ul>
 
 
-<h2>URL frontend: <a href-"https://testapp.pjpb.gabrielkheisa.xyz/login.php">https://testapp.pjpb.gabrielkheisa.xyz/login.php</a><h2>
+<h2>URL frontend: <a href-"https://testapp.pjpb.gabrielkheisa.xyz/login.php">https://testapp.pjpb.gabrielkheisa.xyz/login.php</a></h2>
 
 <h2>Video demonstrasi dan penjelasan: <a href="https://drive.google.com/drive/u/1/folders/1L0w71TZnqa41XFDGfoZ3mM8ILZQeZeXE">https://drive.google.com/drive/u/1/folders/1L0w71TZnqa41XFDGfoZ3mM8ILZQeZeXE</a></h2>
 

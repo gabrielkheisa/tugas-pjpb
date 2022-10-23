@@ -15,7 +15,7 @@
 <ul>
   <li>Back end: PHP 7.2 (vanilla)</li>
   <li>Database: MySQL</li>
-  <li>Hosting: DigitalOcean</li>
+  <li>Hosting: DigitalOcean, bare metal</li>
 </ul>
 
 
